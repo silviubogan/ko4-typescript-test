@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "outDir": "js",
+        "target": "ES3",
+        "watch": true,
+        "allowJs": true,
+        "lib": ["ES5", "DOM"],
+        "module": "CommonJS"
+    },
+    "include": [
+        "ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

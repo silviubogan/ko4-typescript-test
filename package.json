@@ -1,0 +1,14 @@
+{
+  "name": "ko4-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ts/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tko/build.knockout": "^4.0.0-alpha9.0"
+  }
+}
